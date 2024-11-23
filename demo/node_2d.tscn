@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://4xyj5q5v48xj"]
+
+[ext_resource type="Texture2D" uid="uid://hbvfrppa678c" path="res://icon.svg" id="1_lmh8u"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="GDExample" type="GDExample" parent="."]
+message = "GET OU- 🗣📢"
+texture = ExtResource("1_lmh8u")
+centered = false
